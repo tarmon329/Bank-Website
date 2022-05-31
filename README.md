@@ -8,4 +8,4 @@ Designed based on the guide lines of the bank personality .
 # [`The Site`](index.html):
 Run the file [`index.html`](index.html) in any desired browser.
 
-[Live Site]([https://tomer-react-meals.netlify.app/](https://tarmon329.github.io/Bank-Website/))
+[Live Site](https://tarmon329.github.io/Bank-Website/)
